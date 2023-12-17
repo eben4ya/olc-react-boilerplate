@@ -1,5 +1,10 @@
 {
-    "editor.codeActionsOnSave": {
-        "source.fixAll.eslint": true
-    },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": "explicit"
+  },
+  "editor.fontSize": 13,
+  "window.zoomLevel": 1,
+  "terminal.integrated.fontSize": 13,
+  "workbench.colorTheme": "Noctis Azureus",
+  "workbench.iconTheme": "vscode-icons"
 }
